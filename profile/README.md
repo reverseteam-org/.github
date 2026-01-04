@@ -1,48 +1,31 @@
-<h1 align="center">
-  ReverseTeam 🏴‍☠️
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Unlocking Limits. Breaking Boundaries.</b><br>
-  <b>Снимаем ограничения. Ломаем границы.</b>
-</p>
+# ReverseTeam ☕
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-</p>
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Min SDK](https://img.shields.io/badge/Min_SDK-24-success?style=for-the-badge&logo=android)
+![Max SDK](https://img.shields.io/badge/Max_SDK-31-blue?style=for-the-badge&logo=android)
+
+</div>
 
 ---
 
-## 🇺🇸 About Us
+| 🇬🇧 English | 🇷🇺 Русский |
+| :--- | :--- |
+| **Welcome to ReverseTeam!** <br><br> We are a GitHub organization dedicated to crafting high-quality **Android applications**. Our goal is to create efficient, user-friendly, and stable mobile solutions within the Android ecosystem. | **Добро пожаловать в ReverseTeam!** <br><br> Мы — организация на GitHub, занимающаяся разработкой качественных **Android-приложений**. Наша цель — создание эффективных, удобных и стабильных мобильных решений в экосистеме Android. |
 
-We are **ReverseTeam**. We specialize in reverse engineering mobile applications and games. Our mission is to analyze software architecture to remove artificial restrictions and unlock full functionality for everyone.
+<div align="center">
 
-### ⚡ What We Do
-* **Bypass Payment Systems:** Analyzing and disabling in-app purchase verification.
-* **Feature Unlocking:** Activating premium features and subscriptions.
-* **Game Modification:** Editing memory values, patching binaries, and removing ads.
-* **Optimization:** Cleaning code for better performance.
+### 🛠 Tech Stack / Технологии
 
-> *Knowledge should be free.*
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
----
-
-## 🇷🇺 О Нас
-
-Мы — **ReverseTeam**. Мы специализируемся на реверс-инжиниринге мобильных приложений и игр. Наша миссия — анализ архитектуры ПО для снятия искусственных ограничений и открытия полного функционала для всех.
-
-### ⚡ Что мы делаем
-* **Обход платежных систем:** Анализ и отключение проверки внутриигровых покупок.
-* **Разблокировка функций:** Активация премиум-возможностей и подписок.
-* **Модификация игр:** Редактирование значений памяти, патчинг бинарных файлов и удаление рекламы.
-* **Оптимизация:** Очистка кода для лучшей производительности.
-
-> *Знания должны быть свободными.*
+</div>
 
 ---
 
-<p align="center">
-  <a href="#"><b>Telegram Channel</b></a> • <a href="#"><b>Request a Hack</b></a>
-</p>
+<div align="center">
+  <sub>© 2025 ReverseTeam. Open Source Development.</sub>
+</div>
